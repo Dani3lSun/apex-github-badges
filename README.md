@@ -104,7 +104,7 @@ https://cdn.rawgit.com/Dani3lSun/apex-github-badges/c527f26f/badges/apex-educati
 Markdown Code:
 
 ```
-[![APEX Tool](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/c527f26f/badges/apex-education-badge.svg)](<LINK>)
+[![APEX Education](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/c527f26f/badges/apex-education-badge.svg)](<LINK>)
 ```
 
 
