@@ -2,6 +2,9 @@
 
 Because every APEX project on GitHub needs its own badge.
 
+
+## Contents
+
 - [Badges](#badges)
   - [Community Badge](#community-badge)
   - [App Badge](#app-badge)
