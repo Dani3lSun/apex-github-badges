@@ -107,7 +107,7 @@ Important is the first part:
 https://img.shields.io/badge/APEX-plugin-brightgreen.svg
 ```
 
-All the rest is the APEX builder logo base64 encoded. So if you would like to change the text than the schema is like:
+All the rest is the APEX builder logo base64 encoded. So if you would like to change the text then the schema is like:
 
 ```
 https://img.shields.io/badge/APEX-<NAME>-<COLOR>.svg
