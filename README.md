@@ -91,6 +91,23 @@ Markdown Code:
 ```
 
 
+### Education Badge
+
+[![APEX Education](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/c527f26f/badges/apex-education-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/c527f26f/badges/apex-education-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX Tool](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/c527f26f/badges/apex-education-badge.svg)](<LINK>)
+```
+
+
 ## Create your own Badge
 
 If you would like to create your own APEX Badge then you can use the [shields.io service](http://shields.io/#your-badge).
