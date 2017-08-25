@@ -6,6 +6,7 @@ Because every APEX project on GitHub needs its own badge.
 ## Contents
 
 - [Badges](#badges)
+  - [Overview](#overview)
   - [Community Badge](#community-badge)
   - [App Badge](#app-badge)
   - [Plugin Badge](#plugin-badge)
@@ -19,6 +20,19 @@ Because every APEX project on GitHub needs its own badge.
 
 
 ## Badges
+
+
+### Overview
+
+[![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX App](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/b7e95341/badges/apex-app-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX Plugin](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/b7e95341/badges/apex-plugin-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX Theme](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/b7e95341/badges/apex-theme-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX Tool](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/b7e95341/badges/apex-tool-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX Education](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/c527f26f/badges/apex-education-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX 4.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-4_2-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX 5.0](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-5_0-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX 5.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-5_1-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 
 ### Community Badge
