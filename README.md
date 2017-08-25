@@ -11,10 +11,10 @@ Because every APEX project on GitHub needs its own badge.
   - [Plugin Badge](#plugin-badge)
   - [Theme Badge](#theme-badge)
   - [Education Badge](#education-badge)
-  - [APEX Version Badges](#apex-version-badges)
-    - [APEX 4.2](#apex-4-2)
-    - [APEX 5.0](#apex-5-0)
-    - [APEX 5.1](#apex-5-1)
+  - [Version Badges](#version-badges)
+    - [APEX 4.2](#apex-42)
+    - [APEX 5.0](#apex-50)
+    - [APEX 5.1](#apex-51)
 - [Create your own Badge](#create-your-own-badge)
 
 
@@ -123,7 +123,7 @@ Markdown Code:
 ```
 
 
-### APEX Version Badges
+### Version Badges
 
 
 #### APEX 4.2
