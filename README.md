@@ -11,6 +11,7 @@ Because every APEX project on GitHub needs its own badge.
   - [Plugin Badge](#plugin-badge)
   - [Theme Badge](#theme-badge)
   - [Education Badge](#education-badge)
+  - [APEX Versions](#version-badges)
 - [Create your own Badge](#create-your-own-badge)
 
 
@@ -118,6 +119,50 @@ Markdown Code:
 [![APEX Education](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/c527f26f/badges/apex-education-badge.svg)](<LINK>)
 ```
 
+
+### Version Badges
+
+[![APEX 4.2](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-4.2-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-4.2-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX 4.2](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-4.2-badge.svg)](<LINK>)
+```
+
+[![APEX 5.0](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.0-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.0-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX 5.0](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.0-badge.svg)](<LINK>)
+```
+
+[![APEX 5.1](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.1-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.1-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX 5.1](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.1-badge.svg)](<LINK>)
+```
 
 ## Create your own Badge
 
