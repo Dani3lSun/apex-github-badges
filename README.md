@@ -122,11 +122,11 @@ Markdown Code:
 
 ### Version Badges
 
-[![APEX 4.2](https://raw.githubusercontent.com/jeffreykemp/apex-github-badges/master/badges/apex-4.2-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX 4.2](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-4.2-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
-[![APEX 5.0](https://raw.githubusercontent.com/jeffreykemp/apex-github-badges/master/badges/apex-5.0-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX 5.0](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.0-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
-[![APEX 5.1](https://raw.githubusercontent.com/jeffreykemp/apex-github-badges/master/badges/apex-5.1-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX 5.1](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.1-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 
 ## Create your own Badge
