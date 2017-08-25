@@ -22,6 +22,7 @@ Because every APEX project on GitHub needs its own badge.
     - [CSS](#css)
     - [JavaScript](#javascript)
     - [PL/SQL](#plsql)
+  - [Built with Love Badge](#built-with-love-badge)
 - [Create your own Badge](#create-your-own-badge)
 
 
@@ -43,6 +44,7 @@ Because every APEX project on GitHub needs its own badge.
 [![APEX CSS](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-css-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 [![APEX JavaScript](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-javascript-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 [![APEX PL/SQL](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-plsql-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX Built with Love](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 
 ### Community Badge
@@ -269,6 +271,23 @@ Markdown Code:
 
 ```
 [![APEX PL/SQL](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-plsql-badge.svg)](<LINK>)
+```
+
+
+### Built with Love Badge
+
+[![APEX Built with Love](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX Built with Love](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)](<LINK>)
 ```
 
 
