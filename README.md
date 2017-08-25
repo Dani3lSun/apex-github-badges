@@ -11,6 +11,7 @@ Because every APEX project on GitHub needs its own badge.
   - [App Badge](#app-badge)
   - [Plugin Badge](#plugin-badge)
   - [Theme Badge](#theme-badge)
+  - [Tool Badge](#tool-badge)
   - [Education Badge](#education-badge)
   - [Version Badges](#version-badges)
     - [APEX 4.2](#apex-42)
