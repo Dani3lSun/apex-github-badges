@@ -11,6 +11,7 @@ Because every APEX project on GitHub needs its own badge.
   - [Plugin Badge](#plugin-badge)
   - [Theme Badge](#theme-badge)
   - [Education Badge](#education-badge)
+  - [APEX Versions](#version-badges)
 - [Create your own Badge](#create-your-own-badge)
 
 
@@ -117,6 +118,15 @@ Markdown Code:
 ```
 [![APEX Education](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/c527f26f/badges/apex-education-badge.svg)](<LINK>)
 ```
+
+
+### Version Badges
+
+[![APEX 4.2](https://raw.githubusercontent.com/jeffreykemp/apex-github-badges/master/badges/apex-4.2-badge.svg](https://github.com/Dani3lSun/apex-github-badges)
+
+[![APEX 5.0](https://raw.githubusercontent.com/jeffreykemp/apex-github-badges/master/badges/apex-5.0-badge.svg](https://github.com/Dani3lSun/apex-github-badges)
+
+[![APEX 5.1](https://raw.githubusercontent.com/jeffreykemp/apex-github-badges/master/badges/apex-5.1-badge.svg](https://github.com/Dani3lSun/apex-github-badges)
 
 
 ## Create your own Badge
