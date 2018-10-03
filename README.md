@@ -20,6 +20,8 @@ Because every APEX project on GitHub needs its own badge.
     - [APEX 4.2](#apex-42)
     - [APEX 5.0](#apex-50)
     - [APEX 5.1](#apex-51)
+    - [APEX 18.1](#apex-181)
+    - [APEX 18.2](#apex-182)
   - [Language Badges](#language-badges)
     - [HTML](#html)
     - [CSS](#css)
@@ -203,6 +205,40 @@ Markdown Code:
 
 ```
 [![APEX 5.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-5_1-badge.svg)](<LINK>)
+```
+
+
+#### APEX 18.1
+
+[![APEX 18.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-18_1-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-18_1-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX 18.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-18_1-badge.svg)](<LINK>)
+```
+
+
+#### APEX 18.2
+
+[![APEX 18.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-18_2-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-18_2-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX 18.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-18_2-badge.svg)](<LINK>)
 ```
 
 
