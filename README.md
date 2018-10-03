@@ -210,35 +210,35 @@ Markdown Code:
 
 #### APEX 18.1
 
-[![APEX 18.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-18_1-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX 18.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-18_1-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 Link to SVG file:
 
 ```
-https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-18_1-badge.svg
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-18_1-badge.svg
 ```
 
 Markdown Code:
 
 ```
-[![APEX 18.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-18_1-badge.svg)](<LINK>)
+[![APEX 18.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-18_1-badge.svg)](<LINK>)
 ```
 
 
 #### APEX 18.2
 
-[![APEX 18.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-18_2-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX 18.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-18_2-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 Link to SVG file:
 
 ```
-https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-18_2-badge.svg
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-18_2-badge.svg
 ```
 
 Markdown Code:
 
 ```
-[![APEX 18.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-18_2-badge.svg)](<LINK>)
+[![APEX 18.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-18_2-badge.svg)](<LINK>)
 ```
 
 
