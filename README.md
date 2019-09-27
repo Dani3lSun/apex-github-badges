@@ -242,6 +242,40 @@ Markdown Code:
 ```
 
 
+#### APEX 19.1
+
+[![APEX 19.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-19_1-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-19_1-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX 19.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-19_1-badge.svg)](<LINK>)
+```
+
+
+#### APEX 19.2
+
+[![APEX 19.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-19_2-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-19_2-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX 19.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-19_2-badge.svg)](<LINK>)
+```
+
+
 ### Language Badges
 
 
